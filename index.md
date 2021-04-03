@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Gentrificaiton Map](/sample_page)
+[Gentrificaiton Map](/sample_page.md)
 <img src="images/Landing Page.PNG?raw=true"/>
 
 ---
