@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Gentrificaiton Map](/sample_page.md)
+[Gentrificaiton Map](/Gentrification.md)
 <img src="images/Landing Page.PNG?raw=true"/>
 
 ---
@@ -16,6 +16,8 @@
 <img src="images/Population Map.PNG?raw=true"/>
 
 ---
+[Zion National Park Map](http://example.com/)
+<img src="images/ZNPHome.png?raw=true"/>
 
 ### Category Name 2
 
