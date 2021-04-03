@@ -24,6 +24,7 @@
 ---
 ### Resume
 [View Resume](/pdf/BrianLeggeResume.pdf)
+
 <!-- ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
