@@ -1,35 +1,5 @@
-## Portfolio
+## This can be your internal website page / project page
 
----
-
-### Category Name 1 
-
-[Gentrificaiton Map](/sample_page.md)
-<img src="images/Landing Page.PNG?raw=true"/>
-
----
-[BaseBall Attendence Map](/pdf/sample_presentation.pdf)
-<img src="images/HomePage.PNG?raw=true"/>
-
----
-[Population Map](http://example.com/)
-<img src="images/Population Map.PNG?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Project Link](https://btlegge2021.github.io/Gentrification-Map/)
+[Home](/index.md)
