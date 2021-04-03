@@ -21,7 +21,9 @@
 <img src="images/ZNPHome.png?raw=true"/>
 <p>Project Map for Zion National Park. Users can rate camp parks and submit dangerous animal sightings</p>
 <P>Disclaimer: Some functionality on this map is not allowed so it is compatible with hosting</p>
-
+---
+### Resume
+[View Resume](/pdf/BrianLeggeResume.pdf)
 <!-- ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
