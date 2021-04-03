@@ -4,8 +4,9 @@
 
 ### Projects
 
-[Gentrificaiton Map](/Gentrification.md)
+[Gentrificaiton Map](https://btlegge2021.github.io/Gentrification-Map/)
 <img src="images/Landing Page.PNG?raw=true"/>
+<p>Map of gentrification in Denver, Chicago, New Orleans, and Portland. Attributes assessed were Bachelor's Percent, Income, and Home Value.</p>
 
 ---
 [BaseBall Attendence Map](/pdf/sample_presentation.pdf)
