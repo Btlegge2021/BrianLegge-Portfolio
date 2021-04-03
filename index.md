@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Gentrificaiton Map](/Gentrification)
 <img src="images/Landing Page.PNG?raw=true"/>
