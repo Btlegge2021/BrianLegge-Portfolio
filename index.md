@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Gentrificaiton Map](/Gentrification)
+[Gentrificaiton Map](/Gentrification.md)
 <img src="images/Landing Page.PNG?raw=true"/>
 
 ---
