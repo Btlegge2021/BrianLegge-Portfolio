@@ -17,9 +17,10 @@
 <img src="images/Population Map.PNG?raw=true"/>
 <p>Map displays population of each US State from 2010 to 2018. This map was created using D3</p>
 ---
-[Zion National Park Map](http://example.com/)
+[Zion National Park Map](https://btlegge2021.github.io/ZionNP-Map/)
 <img src="images/ZNPHome.png?raw=true"/>
-<p>Project Map for Zion National Park. Some functionality is limited.</p>
+<p>Project Map for Zion National Park. Users can rate camp parks and submit dangerous animal sightings</p>
+<P>Disclaimer: Some functionality on this map is not allowed so it is compatible with hosting</p>
 
 <!-- ### Category Name 2
 
