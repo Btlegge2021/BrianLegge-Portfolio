@@ -15,12 +15,13 @@
 ---
 [Population Map](https://btlegge2021.github.io/USA-Population-Map/)
 <img src="images/Population Map.PNG?raw=true"/>
-<p>Map displays population of each US State from 2010 to 2018. This map was created using D3</p>
+<p>Map displays population of each US State from 2010 to 2018. This map was created using D3.</p>
 ---
 [Zion National Park Map](https://btlegge2021.github.io/ZionNP-Map/)
 <img src="images/ZNPHome.png?raw=true"/>
-<p>Project Map for Zion National Park. Users can rate camp parks and submit dangerous animal sightings</p>
-<P>Disclaimer: Some functionality on this map is not allowed so it is compatible with hosting</p>
+<p>Project Map for Zion National Park. Users can rate camp parks and submit dangerous animal sightings.</p>
+<P>Disclaimer: Some functionality on this map is not allowed so it is compatible with hosting.</p>
+<a href="https://www.youtube.com/watch?v=dQNZipvgGHk">Project Video</a>
 ---
 ### Resume
 [View Resume](/pdf/BrianLeggeResume.pdf)
