@@ -22,7 +22,7 @@
 <p>Project Map for Zion National Park. Users can rate camp parks and submit dangerous animal sightings.</p>
 <P>Disclaimer: Some functionality on this map is not allowed so it is compatible with hosting.</p>
 <a href="https://www.youtube.com/watch?v=dQNZipvgGHk">Project Video</a>
----
+
 ### Resume
 [View Resume](/pdf/BrianLeggeResume.pdf)
 
