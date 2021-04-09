@@ -19,8 +19,8 @@
 ---
 [Zion National Park Map](https://btlegge2021.github.io/ZionNP-Map/)
 <img src="images/ZNPHome.png?raw=true"/>
-<p>Project Map for Zion National Park. Users can rate camp parks and submit dangerous animal sightings.</p>
-<P>Disclaimer: Some functionality on this map is not allowed so it is compatible with hosting.</p>
+<p>Project Map which was based off of Zion National Park data. Users can rate camp parks and submit dangerous animal sightings.</p>
+<P>Disclaimer: Some functionality on this map is not functional so it is compatible with hosting. Please view the project video to see how it works.</p>
 <a href="https://www.youtube.com/watch?v=dQNZipvgGHk">Project Video</a>
 
 ### Resume
