@@ -6,7 +6,7 @@
 
 [Gentrification Map](https://btlegge2021.github.io/Gentrification-Map/)
 <img src="images/Landing Page.PNG?raw=true"/>
-<p>Map of gentrification in Denver, Chicago, New Orleans, and Portland. Attributes assessed were Bachelor's Percent, Income, and Home Value.</p>
+<p>Map of gentrification in Denver, Chicago, New Orleans, and Portland. Attributes assessed were Bachelor's Percent, Income, and Home Value. Created using Leaflet</p>
 
 ---
 [BaseBall Attendance Map](https://btlegge2021.github.io/BaseBall-Attendence/)
@@ -19,7 +19,7 @@
 ---
 [Zion National Park Map](https://btlegge2021.github.io/ZionNP-Map/)
 <img src="images/ZNPHome.png?raw=true"/>
-<p>Project Map which was based off of Zion National Park data. Users can rate camp parks and submit dangerous animal sightings.</p>
+<p>Project Map which was based off of Zion National Park data. Users can rate camp parks and submit dangerous animal sightings. Created using leaflet to display, Carto to store databases, and PHP to submit reviews and animal sightings.</p>
 <P>Disclaimer: Some functionality on this map is not functional so it is compatible with hosting. Please view the project video to see how it works.</p>
 <a href="https://www.youtube.com/watch?v=dQNZipvgGHk">Project Video</a>
 <br>
@@ -27,6 +27,7 @@
 [Python GUI Project](https://www.youtube.com/watch?v=4vUaj_n2s1s)
 <img src="images/PythonGUI.png?raw=true"/>
 <p>This project involved creating a Python GUI using QT (a library for Python to create GUIs). The goal of this project was to determine if there was a correlation between nitrate levels in water and cancer rates.</p>
+---
 ### Resume
 [View Resume](/pdf/BrianLeggeResume.pdf)
 
