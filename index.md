@@ -21,10 +21,9 @@
 <img src="images/ZNPHome.png?raw=true"/>
 <p>Project Map which was based off of Zion National Park data. Users can rate camp parks and submit dangerous animal sightings. Created using leaflet to display, Carto to store databases, and PHP to submit reviews and animal sightings.</p>
 <P>Disclaimer: Some functionality on this map is not functional so it is compatible with hosting. Please view the project video to see how it works.</p>
-<a href="https://www.youtube.com/watch?v=dQNZipvgGHk">Project Video</a>
-<br>
+<!-- <a href="https://www.youtube.com/watch?v=dQNZipvgGHk">Project Video</a> -->
+[Project Video](https://www.youtube.com/watch?v=dQNZipvgGHk)
 ---
-<br>
 [Python GUI Project](https://www.youtube.com/watch?v=4vUaj_n2s1s)
 <img src="images/PythonGUI.png?raw=true"/>
 <p>This project involved creating a Python GUI using QT (a library for Python to create GUIs). The goal of this project was to determine if there was a correlation between nitrate levels in water and cancer rates.</p>
