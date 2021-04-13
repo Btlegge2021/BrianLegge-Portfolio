@@ -25,7 +25,7 @@
 ---
 [Python GUI Project](https://www.youtube.com/watch?v=4vUaj_n2s1s)
 <img src="images/PythonGUI.png?raw=true"/>
-<p>This project involved creating a Python GUI using QT (a library for Python to create GUIs). The goal of this project was to determine if there was a correlation between Nitrate levels in water and cancer.</p>
+<p>This project involved creating a Python GUI using QT (a library for Python to create GUIs). The goal of this project was to determine if there was a correlation between nitrate levels in water and cancer rates.</p>
 ### Resume
 [View Resume](/pdf/BrianLeggeResume.pdf)
 
