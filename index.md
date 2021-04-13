@@ -22,6 +22,7 @@
 <p>Project Map which was based off of Zion National Park data. Users can rate camp parks and submit dangerous animal sightings.</p>
 <P>Disclaimer: Some functionality on this map is not functional so it is compatible with hosting. Please view the project video to see how it works.</p>
 <a href="https://www.youtube.com/watch?v=dQNZipvgGHk">Project Video</a>
+<br>
 ---
 [Python GUI Project](https://www.youtube.com/watch?v=4vUaj_n2s1s)
 <img src="images/PythonGUI.png?raw=true"/>
