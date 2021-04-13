@@ -11,7 +11,7 @@
 ---
 [BaseBall Attendance Map](https://btlegge2021.github.io/BaseBall-Attendence/)
 <img src="images/HomePage.PNG?raw=true"/>
-<p>Map displays all baseball stadium's attendance from 2011-2018.</p>
+<p>Map displays all baseball stadium's attendance from 2011-2018. This was created using Leaflet</p>
 ---
 [Population Map](https://btlegge2021.github.io/USA-Population-Map/)
 <img src="images/Population Map.PNG?raw=true"/>
