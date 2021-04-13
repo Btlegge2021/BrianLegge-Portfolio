@@ -4,12 +4,12 @@
 
 ### Projects
 
-[Gentrificaiton Map](https://btlegge2021.github.io/Gentrification-Map/)
+[Gentrification Map](https://btlegge2021.github.io/Gentrification-Map/)
 <img src="images/Landing Page.PNG?raw=true"/>
 <p>Map of gentrification in Denver, Chicago, New Orleans, and Portland. Attributes assessed were Bachelor's Percent, Income, and Home Value.</p>
 
 ---
-[BaseBall Attendence Map](https://btlegge2021.github.io/BaseBall-Attendence/)
+[BaseBall Attendance Map](https://btlegge2021.github.io/BaseBall-Attendence/)
 <img src="images/HomePage.PNG?raw=true"/>
 <p>Map displays all baseball stadium's attendance from 2011-2018.</p>
 ---
@@ -43,5 +43,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
